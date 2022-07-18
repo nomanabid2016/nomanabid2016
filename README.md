@@ -6,7 +6,7 @@
 
 <div align="center"><h3>💻 Senior Software Engineer | 🌏 Lahore, Pakistan</h3></div>
 
-<!-- <a target="_blank" href="http://naeemqaswar.me"><img src="assets/work.gif" align="right" width="300"></a> -->
+<img src="/work.gif" align="right" width="300">
 
 ### About me
 
