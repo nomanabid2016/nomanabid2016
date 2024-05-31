@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I’m Noman Abid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 <p align='center'> 
-<!-- <a target="_blank" href="#" alt="Profile" title="Profile Website"><img height="30" width="30" src="https://image.flaticon.com/icons/png/512/607/607421.png"></a>&nbsp;&nbsp; -->
-<a target="_blank" href="https://www.linkedin.com/in/muhammad-noman-abid-714593130" alt="LinkedIn" title="LinkedIn"><img height="30" width="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://instagram.com/noman_abid208" alt="Instagram" title="Instagram"><img height="30" width="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png"></a>&nbsp;&nbsp;
+
 
 <div align="center"><h3>💻 Senior Software Engineer | 🌏 Lahore, Pakistan</h3></div>
 
